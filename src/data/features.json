@@ -1,0 +1,22 @@
+[
+    {
+        "featureIcon" : "Features/star-05.png",
+        "feature" : "Budgeting Intervals",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci necessitatibus est illo voluptates obcaecati reiciendis atque in nulla?"
+
+    },
+
+    {
+        "featureIcon" : "Features/Icon.png",
+        "feature" : "Budgeting Intervals",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci necessitatibus est illo voluptates obcaecati reiciendis atque in nulla?"
+
+    },
+    {
+        "featureIcon" : "Features/cube-04.png",
+        "feature" : "Budgeting Intervals",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci necessitatibus est illo voluptates obcaecati reiciendis atque in nulla?"
+
+    }
+    
+]
